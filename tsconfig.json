@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "esnext"
+    ],
+    "experimentalDecorators": true,
+    "target": "ES2021",
+  },
+  "references": [
+    {
+      "path": "tsconfig.src.json"
+    },
+    {
+      "path": "tsconfig.test.json"
+    }
+  ]
+}

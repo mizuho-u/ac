@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "rootDir": "src",
+    //   "noEmit": true,
+    "skipLibCheck": true,
+    "target": "ES2022",
+  },
+  "references": [
+    {
+      "path": "tsconfig.src.json"
+    }
+  ]
+}
